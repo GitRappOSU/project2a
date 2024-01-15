@@ -4,7 +4,7 @@
 # Python Project 2a: Average of 5 input numbers
 
 
-num_1 = float(input("Please Enter five numbers:: "))
+num_1 = float(input("Please enter five numbers: "))
 num_2 = float(input())
 num_3 = float(input())
 num_4 = float(input())
